@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>سيرتي الذاتية</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>عبدالمجيد احمد عجلان الصلاحي</h1>
+            <p> مهندس تقني</p>
+            <div class="contact-info">
+                <div>📧 bdalmjydjlan6@gmail.com</div>
+                <div>📞 00967774631582</div>
+                <div>📍 اب، اليمن</div>
+                <div>🔗 abudergham.com</div>;
+            </div>
+        </header>
+
+        <section class="section">
+            <h2>نبذة عني</h2>
+            <p>أنا محترف في مجال البرمجة(برمجة الجوالات) لاني اعمل كمبرمج في محل جوالات لمدة اكثر من 5 سنوات و لدي خبرة في [الادارة] كوني عملت كمدير او كموظف معتمد. لدي شغف لـتعلم [لغات البرمجة] بشكل عام مع اني درست بعصا منها.وأسعى دائمًا لتحسين مهاراتي وتوسيع معرفتي في الامور التقنية بشكل عام .</p>
+        </section>
+
+        <section class="section">
+            <h2>الخبرة العملية</h2>
+            <div class="experience">
+                <h3>مهندس</h3>
+                <p class="date">02/2020 _ 06/2024</p>
+                <p><strong> مؤسسه حكومية </strong>  اب ، اليمن</p>
+                <ul>
+                    <li> مهندس </li>
+                    <li> Engineer </li>
+                </ul>
+                <h3>مدير محل</h3>
+                <p class="date">02/2020 _ 06/2024</p>
+                <p><strong>ابو درغام للهواتف الدكية ومستلزماتها </strong>  اب ، اليمن</p>
+                <ul>
+                    <li>مدير فعلي للمحل كامل</li>
+                    <li>محاسب عام من مستريات ومبيعات ومخازن وجرد</li>
+                </ul>
+            </div>
+            <div class="experience">
+                <h3> مبرمج</h3>
+                <p class="date">02/2020 _ 06/2024</p>
+                <p><strong>ابز درغام للهواتف الدكية ومستلزماتها </strong>  اب ، اليمن</p>
+                <ul>
+                    <li>مبرمج كمبيوترات وجوالات </li>
+                    <li>اصلاح مساكل الاجهزة المحمولة </li>
+                </ul>
+            </div>
+        </section>
+
+        <section class="section">
+            <h2>التعليم</h2>
+            <div class="education">
+                <h3>ثانوية عامة</h3>
+                <p class="date">2019/2020 </p>
+                <p><strong> خالد بن الوليد الحكومية </strong>  جبلة - اب - اليمن</p>
+            </div>
+            <div class="education">
+                <h3>بكالوريوس تقنية معلومات</h3>
+                <p class="date">2021/2025 </p>
+                <p><strong> جامعةالجزيرة </strong> اب - اليمن</p>
+            </div>
+        </section>
+
+        <section class="section">
+            <h2>المهارات</h2>
+            <div class="skills">
+                <span class="skill"> مهندس تقني</span>
+                <span class="skill">مبرمج </span>
+                <span class="skill"> مصمم</span>
+            </div>
+        </section>
+
+        <section class="section">
+            <h2>لقطات شاشة للأكواد</h2>
+            <div class="code-screenshots">
+                <div class="screenshot">
+                    <img src="images/1.jpg" alt="لقطة شاشة للكود">
+                    <div class="screenshot-desc">
+                        معرفة اصدار git ادا كان مثبتا 
+                    </div>
+                    <div class="screenshot">
+                        <img src="images/2.jpg" alt="لقطة شاشة للكود">
+                        <div class="screenshot-desc">
+                            قائمة باسم المستخدم وكلمة المرور في الجيت هب 
+                        </div>
+                        <div class="screenshot">
+                            <img src="images/3.jpg" alt="لقطة شاشة للكود">
+                            <div class="screenshot-desc">
+                        نستخدم امر clone لجلب المسروع من الجيت هب الى المستودع المحلي على الجهاز
+                            </div>
+                            <div class="screenshot">
+                                <img src="images/4.jpg" alt="لقطة شاشة للكود">
+                                <div class="screenshot-desc">
+                                    حالة المسروع حاليا ماتم تغييره او تعديله او تحديثه في الكود
+                                </div>
+                                <div class="screenshot">
+                                    <img src="images/5.jpg" alt="لقطة شاشة للكود">
+                                    <div class="screenshot-desc">
+                                        اصافة التغييرات الى الكود او الى المسروع 
+                                    </div>
+                                    <div class="screenshot">
+                                        <img src="images/authontication.jpg" alt="لقطة شاشة للكود">
+                                        <div class="screenshot-desc">
+                                            المصادقة ودفع المسروع المحلي الى المستودع
+                                        </div>
+                                        <div class="screenshot">
+                                            <img src="images/commit.jpg" alt="لقطة شاشة للكود">
+                                            <div class="screenshot-desc">
+                                                رسالة او تعليق على ما تم تغييره اة تعديله في الكود او في المسروع 
+                                            </div>
+                                            <div class="screenshot">
+                                                <img src="images/مستودع.jpg" alt="لقطة شاشة للكود">
+                                                <div class="screenshot-desc">
+                                                    المستودعات او الريبوسيتري الموجودات في الجيت هب 
+                                                </div>
+                </div>
+            </div>
+        </section>
+    </div>
+</body>
+</html>
